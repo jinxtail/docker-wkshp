@@ -1,5 +1,7 @@
+*.parquet
 .venv/
 venv/
 __pycache__/
-*.py[cod]
+*.py[codz]
+*$py.class
 .env
